@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FHTS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Activation</string>
+    <string name="title_activity_reg">Register</string>
+    <string name="title_activity_reg_by_parnt">Register as Parent</string>
+    <string name="title_activity_reg_by_teachr">Register as Teacher</string>
+    <string name="title_activity_reg_by_doctor">Register By Doctor</string>
+    <string name="title_activity_chose_acv">Application</string>
+    <string name="title_activity_add_child">FHTS</string>
+    <string name="title_activity_adddigno">Add Diagnosis</string>
+    <string name="title_activity_addsymptom">Add Symptom</string>
+    <string name="title_activity_add_outcome">Add Outcome</string>
+    <string name="title_activity_outer_login">Login</string>
+    <string name="title_activity_loader">Loader</string>
+    <string name="title_activity_contr_group">ContrGroup</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidApps\rfrhd\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidApps\rfrhd\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3a7d35e2fd6b38b35d5653b9466146922e896ec0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidApps\rfrhd\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidApps\rfrhd\app\build\intermediates\pre-dexed\debug\classes-81d797a477faeb50b985c45a7b1897b4cf251c93.jar" />
+    </item>
+    <item
+        jar="C:\Users\OXOTechLab\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidApps\rfrhd\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0e490e992b4706a22cd8796fcae300af3c75d04b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidApps\rfrhd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\AndroidApps\rfrhd\app\build\intermediates\pre-dexed\debug\classes-66d1e3c6491971a347e35ec9d6581e779e930e93.jar" />
+    </item>
+
+</items>

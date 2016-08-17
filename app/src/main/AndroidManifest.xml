@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wadali.oxosolutions"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ss"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginAc"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".RegAc"
+            android:label="@string/title_activity_reg" >
+        </activity>
+        <activity
+            android:name=".RegByParnt"
+            android:label="@string/title_activity_reg_by_parnt" >
+        </activity>
+        <activity
+            android:name=".RegByTeachr"
+            android:label="@string/title_activity_reg_by_teachr" >
+        </activity>
+        <activity
+            android:name=".RegByDoctor"
+            android:label="@string/title_activity_reg_by_doctor" >
+        </activity>
+        <activity
+            android:name=".ChoseAcv"
+            android:label="@string/title_activity_chose_acv" >
+        </activity>
+        <activity
+            android:name=".AddChild"
+            android:label="@string/title_activity_add_child" >
+        </activity>
+        <activity
+            android:name=".Adddigno"
+            android:label="@string/title_activity_adddigno" >
+        </activity>
+        <activity
+            android:name=".Addsymptom"
+            android:label="@string/title_activity_addsymptom" >
+        </activity>
+        <activity
+            android:name=".AddOutcome"
+            android:label="@string/title_activity_add_outcome" >
+        </activity>
+        <activity
+            android:name=".OuterLogin"
+            android:label="@string/title_activity_outer_login" >
+        </activity>
+        <activity
+            android:name=".Loader"
+            android:label="@string/title_activity_loader" >
+        </activity>
+        <activity
+            android:name=".ContrGroup"
+            android:label="@string/title_activity_contr_group" >
+        </activity>
+    </application>
+
+</manifest>
